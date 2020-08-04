@@ -20,3 +20,10 @@ Complete Instructions can be found at : https://www.hackster.io/yasaspeiris/voic
 
 https://www.youtube.com/watch?v=K_po1u-yizQ&feature=emb_title
 
+
+## Awards
+
+Voice AI Hardware Challenge (Organized by Snips and MATRIX Labs)
+Grand Winner
+
+
