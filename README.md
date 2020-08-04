@@ -1,4 +1,4 @@
-# voicecontrolled_3dprinter
+# Voice Controlled 3D Printer
 Control your 3D printer with voice commands using Snips and Matrix Voice!
 
 ![alt text](https://github.com/yasaspeiris/voicecontrolled_3dprinter/blob/master/images/1.main.jpg)
